@@ -1,5 +1,7 @@
 # 微信小程序DEMO - 投票
 
+使用docker构建: docker build -t myvote .
+
 ---
 
 本项目目的仅用于微信小程序开发培训，并非真实需求。<br/>
