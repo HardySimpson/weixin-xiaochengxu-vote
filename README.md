@@ -1,5 +1,6 @@
 # 微信小程序DEMO - 投票
 
+---
 
 使用docker构建: docker build -t myvote .
 
